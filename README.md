@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/j181sus0b87j2fyi/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-props-listing/branch/master)
 
-[Список предложений](https://rebikhub.github.io/ra-props-films/)
+[Список предложений](https://rebikhub.github.io/ra-props-listing/)
 
 ===
 
